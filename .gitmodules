@@ -1,0 +1,12 @@
+[submodule "orca-logic-gates"]
+	path = orca-logic-gates
+	url = https://github.com/jcdominic/orca-logic-gates.git
+[submodule "bead-sort"]
+	path = bead-sort
+	url = https://github.com/jcdominic/bead-sort.git
+[submodule "insertion-sort"]
+	path = insertion-sort
+	url = https://github.com/jcdominic/insertion-sort.git
+[submodule "bubble-sort"]
+	path = bubble-sort
+	url = https://github.com/jcdominic/bubble-sort.git
