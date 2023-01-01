@@ -1,0 +1,3 @@
+[submodule "orca-logic-gates"]
+	path = orca-logic-gates
+	url = https://github.com/jcdominic/orca-logic-gates.git
